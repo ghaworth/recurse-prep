@@ -52,8 +52,6 @@ fn parse(input: &str) -> Vec<LispValue> {
             }
         }
     }
-
-    // TODO: return the completed AST
     Vec::new()
 }
 
